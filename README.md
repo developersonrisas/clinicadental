@@ -1,0 +1,2 @@
+# clinicadental
+software de gestión
